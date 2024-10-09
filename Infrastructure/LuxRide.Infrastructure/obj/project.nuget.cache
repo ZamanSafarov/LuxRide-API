@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQTgoYTe59aczlkEcE91gm8eWK6MJzd1bmooh2VJjiC/TUgeOoXdoRWtX+xAOfWbOO4tK6ZVLT1GcICpnXOZ5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

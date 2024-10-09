@@ -1,0 +1,6 @@
+@LuxRide_HostAddress = http://localhost:5252
+
+GET {{LuxRide_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

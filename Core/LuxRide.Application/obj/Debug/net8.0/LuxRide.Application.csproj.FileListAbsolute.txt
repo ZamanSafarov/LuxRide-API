@@ -1,0 +1,17 @@
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.AssemblyInfoInputs.cache
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.AssemblyInfo.cs
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.csproj.CoreCompileInputs.cache
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Application.deps.json
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Application.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Application.pdb
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.csproj.AssemblyReference.cache
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\refint\LuxRide.Application.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.pdb
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\ref\LuxRide.Application.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Domain.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Infrastructure.dll
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Infrastructure.pdb
+D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Domain.pdb
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide..E29BCEB8.Up2Date

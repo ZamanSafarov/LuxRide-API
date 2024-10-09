@@ -1,0 +1,12 @@
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\bin\Debug\net8.0\LuxRide.Infrastructure.deps.json
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\bin\Debug\net8.0\LuxRide.Infrastructure.dll
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\bin\Debug\net8.0\LuxRide.Infrastructure.pdb
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.AssemblyInfoInputs.cache
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.AssemblyInfo.cs
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.dll
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\refint\LuxRide.Infrastructure.dll
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.pdb
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\ref\LuxRide.Infrastructure.dll
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.csproj.AssemblyReference.cache
