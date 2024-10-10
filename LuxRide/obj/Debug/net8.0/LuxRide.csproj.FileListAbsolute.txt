@@ -135,3 +135,4 @@ D:\Coding\LuxRide\LuxRide\bin\Debug\net8.0\LuxRide.Infrastructure.pdb
 D:\Coding\LuxRide\LuxRide\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Coding\LuxRide\LuxRide\bin\Debug\net8.0\Scrutor.dll
 D:\Coding\LuxRide\LuxRide\obj\Debug\net8.0\LuxRide.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\LuxRide\LuxRide\obj\Debug\net8.0\LuxRide.sourcelink.json

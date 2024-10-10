@@ -25,8 +25,8 @@ namespace LuxRide.Domain.Entities.Teams
 		}
 		public void SetExperienceDate(DateTime startDate, DateTime? endDate, bool isPresent =false)
 		{
-			StartDate = startDate;
-			EndDate = endDate;
+			StartDate = startDate.Kind == DateTimeKind.Utc ? startDate : startDate.ToUniversalTime();
+			EndDate = endDate.HasValue ? (endDate.Value.Kind == DateTimeKind.Utc ? endDate.Value : endDate.Value.ToUniversalTime()) : (DateTime?)null;
 			IsPresent = isPresent;
 		}
 	}

@@ -13,3 +13,4 @@ D:\Coding\LuxRide\Core\LuxRide.Domain\obj\Debug\net8.0\LuxRide.Domain.dll
 D:\Coding\LuxRide\Core\LuxRide.Domain\obj\Debug\net8.0\refint\LuxRide.Domain.dll
 D:\Coding\LuxRide\Core\LuxRide.Domain\obj\Debug\net8.0\LuxRide.Domain.pdb
 D:\Coding\LuxRide\Core\LuxRide.Domain\obj\Debug\net8.0\ref\LuxRide.Domain.dll
+D:\Coding\LuxRide\Core\LuxRide.Domain\obj\Debug\net8.0\LuxRide.Domain.sourcelink.json

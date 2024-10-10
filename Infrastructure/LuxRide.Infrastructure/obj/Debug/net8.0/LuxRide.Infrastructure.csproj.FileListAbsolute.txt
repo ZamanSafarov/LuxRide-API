@@ -10,3 +10,4 @@ D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\refint\
 D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.pdb
 D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\ref\LuxRide.Infrastructure.dll
 D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.csproj.AssemblyReference.cache
+D:\Coding\LuxRide\Infrastructure\LuxRide.Infrastructure\obj\Debug\net8.0\LuxRide.Infrastructure.sourcelink.json

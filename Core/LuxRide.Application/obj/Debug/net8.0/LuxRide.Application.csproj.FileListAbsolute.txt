@@ -15,3 +15,4 @@ D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Infrastructu
 D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Infrastructure.pdb
 D:\Coding\LuxRide\Core\LuxRide.Application\bin\Debug\net8.0\LuxRide.Domain.pdb
 D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide..E29BCEB8.Up2Date
+D:\Coding\LuxRide\Core\LuxRide.Application\obj\Debug\net8.0\LuxRide.Application.sourcelink.json

@@ -19,3 +19,4 @@ D:\Coding\LuxRide\Infrastructure\LuxRide.Persistence\obj\Debug\net8.0\refint\Lux
 D:\Coding\LuxRide\Infrastructure\LuxRide.Persistence\obj\Debug\net8.0\LuxRide.Persistence.pdb
 D:\Coding\LuxRide\Infrastructure\LuxRide.Persistence\obj\Debug\net8.0\LuxRide.Persistence.genruntimeconfig.cache
 D:\Coding\LuxRide\Infrastructure\LuxRide.Persistence\obj\Debug\net8.0\ref\LuxRide.Persistence.dll
+D:\Coding\LuxRide\Infrastructure\LuxRide.Persistence\obj\Debug\net8.0\LuxRide.Persistence.sourcelink.json
