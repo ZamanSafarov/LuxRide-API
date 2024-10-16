@@ -26,12 +26,13 @@ namespace LuxRide.Application.Features.Commands.User.Login
 		public async Task<JwtTokenDto> Handle(CreateAuthTokenCommand request, CancellationToken cancellationToken)
 		{
 			var user = await _userRepository.GetAsync(x=>x.UserName.ToLower() == request.UserName.ToLower());
+            if (user == null || user.PasswordHash != PasswordHasher.HashPassword(request.Password) || user.IsDeleted || !user.Activated)
+				throw new UnAuthorizedException("Invalid Credensials");
+
             if (user.Activated ==false)
             {
 				throw new BadRequestException("User Not Activated.");
             }
-            if (user == null || user.PasswordHash != PasswordHasher.HashPassword(request.Password) || user.IsDeleted || !user.Activated)
-				throw new UnAuthorizedException("Invalid Credensials");
 
 			var randomNum = GenerateRandomNumber();
 			var  refreshToken = $"{randomNum}_{user.Id}_{DateTime.UtcNow.AddDays(1)}";

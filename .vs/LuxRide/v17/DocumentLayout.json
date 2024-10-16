@@ -3,28 +3,376 @@
   "WorkspaceRootPath": "D:\\Coding\\LuxRide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\partner\\get\\getpartnerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\partner\\get\\getpartnerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\partner\\get\\getpartnerallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\partner\\get\\getpartnerallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\partner\\get\\getpartnerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\partner\\get\\getpartnerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\partner\\get\\getpartnerallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\partner\\get\\getpartnerallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\partner\\dtos\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\partner\\dtos\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\update\\updatepartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\delete\\deletepartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\delete\\deleteaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\partner\\create\\createpartnercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\create\\createaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\create\\createaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\create\\createaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\create\\createaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|d:\\coding\\luxride\\infrastructure\\luxride.infrastructure\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|solutionrelative:infrastructure\\luxride.infrastructure\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\abouts\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\abouts\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\partnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\partnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\interfaces\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\interfaces\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\partnertypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\partnertypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\abouttypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\abouttypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\faqtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\abouttypeentityconfigurations\\faqtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\context\\luxridedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\context\\luxridedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\teamtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\teamtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\about\\get\\getaboutqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\about\\get\\getaboutqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\about\\dtos\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\about\\dtos\\aboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\abouts\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\abouts\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\about\\get\\getaboutquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\about\\get\\getaboutquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\update\\updateaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\about\\create\\createaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\about\\create\\createaboutcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\interfaces\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\interfaces\\iaboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\aboutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\interfaces\\ifaqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\interfaces\\ifaqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\faqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\faqrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\abouts\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\abouts\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\controllers\\faqscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\luxride.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\luxride.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\contacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\contacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\faq\\get\\getfaqbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\faq\\get\\getfaqbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\faq\\get\\getfaqbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\faq\\get\\getfaqbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\faq\\get\\getallfaqsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\faq\\get\\getallfaqsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\faq\\dtos\\faqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\faq\\dtos\\faqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\faq\\get\\getallfaqsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\faq\\get\\getallfaqsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\create\\createfaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\update\\updatefaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\faq\\delete\\deletefaqcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\contacttypeentityconfigurations\\contacttypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\contacttypeentityconfigurations\\contacttypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\contact\\get\\getallcontactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\contact\\get\\getallcontactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\contact\\get\\getbyidcontactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\contact\\get\\getbyidcontactqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\contact\\get\\getbyidcontactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\contact\\get\\getbyidcontactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\contact\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\contact\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\contact\\get\\getallcontactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\contact\\get\\getallcontactquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\contact\\create\\createcontactcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\user\\login\\createauthtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\user\\login\\createauthtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\interfaces\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\update\\updateteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\update\\updateteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\update\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\update\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\update\\updateteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\update\\updateteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\delete\\deleteteamcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\teams\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\teams\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +383,8 @@
       "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|d:\\coding\\luxride\\infrastructure\\luxride.infrastructure\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|solutionrelative:infrastructure\\luxride.infrastructure\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|d:\\coding\\luxride\\infrastructure\\luxride.infrastructure\\iformfileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02BB6C49-3ABD-40E5-A7CE-24B9A5668905}|Infrastructure\\LuxRide.Infrastructure\\LuxRide.Infrastructure.csproj|solutionrelative:infrastructure\\luxride.infrastructure\\iformfileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\update\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\update\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\dtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,48 +399,16 @@
       "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getallqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\queries\\team\\get\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\queries\\team\\get\\getallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\common\\pagination\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\common\\pagination\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|d:\\coding\\luxride\\core\\luxride.domain\\entities\\teams\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B610B0FB-A747-4CCA-83F8-D73714600AE4}|Core\\LuxRide.Domain\\LuxRide.Domain.csproj|solutionrelative:core\\luxride.domain\\entities\\teams\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\features\\commands\\team\\create\\createteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|solutionrelative:core\\luxride.application\\features\\commands\\team\\create\\createteamcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\experiencetypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\experiencetypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\teamtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\entityconfigurations\\teamtypeentitycongigurations\\teamtypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|d:\\coding\\luxride\\luxride\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B10CCE2-8A32-44DF-B1A7-085EB54486EB}|LuxRide\\LuxRide.csproj|solutionrelative:luxride\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9444B8BA-25A8-4388-A621-A054D9AC4A9A}|Core\\LuxRide.Application\\LuxRide.Application.csproj|d:\\coding\\luxride\\core\\luxride.application\\exceptions\\extensionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,6 +425,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\migrations\\20241009195044_teamadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\migrations\\20241009195044_teamadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\migrations\\20241011184958_contactadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\migrations\\20241011184958_contactadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|d:\\coding\\luxride\\infrastructure\\luxride.persistence\\migrations\\20241015031313_aboutmainandfaqsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE67792-D5EC-4976-8A8F-9B19F294F433}|Infrastructure\\LuxRide.Persistence\\LuxRide.Persistence.csproj|solutionrelative:infrastructure\\luxride.persistence\\migrations\\20241015031313_aboutmainandfaqsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,11 +442,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 92,
               "Title": "Experience.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Teams\\Experience.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Domain\\Entities\\Teams\\Experience.cs",
@@ -154,204 +458,915 @@
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241016023308_PartnersAdded.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241016023308_PartnersAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:33:08.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExperienceRepository.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
-              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "DocumentIndex": 3,
+              "Title": "GetPartnerByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:25:14.599Z",
+              "WhenOpened": "2024-10-16T02:26:08.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetPartnerByIdQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:25:55.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPartnerAllQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:18:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPartnerAllQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\Get\\GetPartnerAllQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:17:34.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PartnersController.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\PartnersController.cs",
+              "RelativeDocumentMoniker": "LuxRide\\Controllers\\PartnersController.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\PartnersController.cs",
+              "RelativeToolTip": "LuxRide\\Controllers\\PartnersController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:58:14.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TeamsController.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\TeamsController.cs",
               "RelativeDocumentMoniker": "LuxRide\\Controllers\\TeamsController.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\TeamsController.cs",
               "RelativeToolTip": "LuxRide\\Controllers\\TeamsController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAhwCQAAAA2AAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwDUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T17:26:06.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFormFileExtensions.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAhwB0AAAACAAAA",
+              "DocumentIndex": 7,
+              "Title": "PartnerDto.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\DTOs\\PartnerDto.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\DTOs\\PartnerDto.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Partner\\DTOs\\PartnerDto.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Partner\\DTOs\\PartnerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:51:17.057Z",
+              "WhenOpened": "2024-10-16T02:17:59.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExperienceDtoUpdate.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "DocumentIndex": 9,
+              "Title": "UpdatePartnerCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:14:17.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAhwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:18:18.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateTeamCommandHandler.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAhwEAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:29:38.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IExperienceRepository.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:23:18.935Z",
+              "WhenOpened": "2024-10-16T02:15:58.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UpdatePartnerCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommandHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:14:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePartnerCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Update\\UpdatePartnerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:14:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteAboutCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:51:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteTeamCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:11:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeletePartnerCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:11:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeletePartnerCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:10:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeletePartnerCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Delete\\DeletePartnerCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:12:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteAboutCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:50:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteAboutCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Delete\\DeleteAboutCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:50:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreatePartnerCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:10:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreatePartnerCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommandHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:05:13.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreatePartnerCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Partner\\Create\\CreatePartnerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:04:51.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateAboutCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:34:02.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateAboutCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:34:31.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LuxRide\\appsettings.Development.json",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\appsettings.Development.json",
+              "RelativeToolTip": "LuxRide\\appsettings.Development.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T17:42:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "FileSettings.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\FileSettings.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Infrastructure\\FileSettings.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\FileSettings.cs",
               "RelativeToolTip": "Infrastructure\\LuxRide.Infrastructure\\FileSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T17:45:46.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeleteTeamCommand.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "DocumentIndex": 26,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\Partner.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Domain\\Entities\\Abouts\\Partner.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\Partner.cs",
+              "RelativeToolTip": "Core\\LuxRide.Domain\\Entities\\Abouts\\Partner.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:49:45.744Z",
+              "WhenOpened": "2024-10-15T03:50:04.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteTeamCommandHandler.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
+              "DocumentIndex": 23,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "LuxRide\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "LuxRide\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T21:49:51.394Z",
+              "WhenOpened": "2024-10-15T02:31:55.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 30,
+              "Title": "AboutTypeEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\AboutTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\AboutTypeEntityConfiguration.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\AboutTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\AboutTypeEntityConfiguration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:09:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PartnerTypeEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\PartnerTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\PartnerTypeEntityConfiguration.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\PartnerTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\PartnerTypeEntityConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:55:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPartnerRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IPartnerRepository.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IPartnerRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IPartnerRepository.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IPartnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:57:02.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PartnerRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\PartnerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\PartnerRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\PartnerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\PartnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:57:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FaqTypeEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\FaqTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\FaqTypeEntityConfiguration.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\FaqTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\AboutTypeEntityConfigurations\\FaqTypeEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:41:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20241015031313_AboutMainAndFaqsAdded.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241015031313_AboutMainAndFaqsAdded.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241015031313_AboutMainAndFaqsAdded.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241015031313_AboutMainAndFaqsAdded.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241015031313_AboutMainAndFaqsAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:13:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LuxrideDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Context\\LuxrideDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Context\\LuxrideDbContext.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Context\\LuxrideDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Context\\LuxrideDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:21:38.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TeamTypeEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:14:59.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateFaqCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:46:00.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAboutQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:01:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AboutDto.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\DTOs\\AboutDto.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\About\\DTOs\\AboutDto.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\DTOs\\AboutDto.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\About\\DTOs\\AboutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:01:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "About.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\About.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Domain\\Entities\\Abouts\\About.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\About.cs",
+              "RelativeToolTip": "Core\\LuxRide.Domain\\Entities\\Abouts\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:28:18.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:12:37.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:12:30.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAboutQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\About\\Get\\GetAboutQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:00:30.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateAboutCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:53:46.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateAboutCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:57:10.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateAboutCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Update\\UpdateAboutCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:53:22.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateAboutCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\About\\Create\\CreateAboutCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:34:37.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAboutRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IAboutRepository.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IAboutRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IAboutRepository.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IAboutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:37:07.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AboutRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\AboutRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\AboutRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\AboutRepository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\AboutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:37:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FaqRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\FaqRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\FaqRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\FaqRepository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\FaqRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:43:31.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFaqRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IFaqRepository.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IFaqRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IFaqRepository.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IFaqRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:42:51.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "LuxRide\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "LuxRide\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:38:11.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Faq.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\Faq.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Domain\\Entities\\Abouts\\Faq.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Abouts\\Faq.cs",
+              "RelativeToolTip": "Core\\LuxRide.Domain\\Entities\\Abouts\\Faq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:27:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateFaqCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:46:09.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FAQsController.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\FAQsController.cs",
+              "RelativeDocumentMoniker": "LuxRide\\Controllers\\FAQsController.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Controllers\\FAQsController.cs",
+              "RelativeToolTip": "LuxRide\\Controllers\\FAQsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:25:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Program.cs",
               "RelativeDocumentMoniker": "LuxRide\\Program.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Program.cs",
               "RelativeToolTip": "LuxRide\\Program.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAhwK4AAAADAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAEBVwKQAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:44:25.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T17:44:25.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 55,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\ContactRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\ContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:33:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LuxRide.csproj",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\LuxRide.csproj",
+              "RelativeDocumentMoniker": "LuxRide\\LuxRide.csproj",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\LuxRide.csproj",
+              "RelativeToolTip": "LuxRide\\LuxRide.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T10:27:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:18:18.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Contacts\\Contact.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Domain\\Entities\\Contacts\\Contact.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Domain\\Entities\\Contacts\\Contact.cs",
+              "RelativeToolTip": "Core\\LuxRide.Domain\\Entities\\Contacts\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:08:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "GetByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQueryHandler.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQueryHandler.cs",
               "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQueryHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBsAAAAlAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwDAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T22:46:06.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateTeamCommandHandler.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAEwCYAAAAgAAAA",
+              "DocumentIndex": 61,
+              "Title": "GetByIdQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:15:27.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T22:46:00.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAtwB4AAAACAAAA",
+              "DocumentIndex": 60,
+              "Title": "GetFaqByIdQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:03:01.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T04:07:19.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExperienceDto.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "DocumentIndex": 58,
+              "Title": "GetFaqByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetFaqByIdQueryHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:34:48.022Z"
+              "WhenOpened": "2024-10-14T04:07:24.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 62,
+              "Title": "GetAllFaqsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQueryHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:03:06.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FaqDto.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\DTOs\\FaqDto.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\DTOs\\FaqDto.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\DTOs\\FaqDto.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\DTOs\\FaqDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:03:58.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GetAllFaqsQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Faq\\Get\\GetAllFaqsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:02:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UpdateFaqCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:59:06.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DeleteFaqCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:57:31.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UpdateFaqCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:58:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateFaqCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Create\\CreateFaqCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:45:53.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateFaqCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Update\\UpdateFaqCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:58:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeleteFaqCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:53:23.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeleteFaqCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Faq\\Delete\\DeleteFaqCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:52:55.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
               "Title": "CreateTeamCommand.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommand.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommand.cs",
@@ -363,43 +1378,307 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 73,
+              "Title": "CreateTeamCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandHandler.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:29:38.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CreateTeamCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:30:11.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\DTOs\\ContactDto.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\DTOs\\ContactDto.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\DTOs\\ContactDto.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\DTOs\\ContactDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:19:02.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ContactTypeEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\ContactTypeEntityConfigurations\\ContactTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\ContactTypeEntityConfigurations\\ContactTypeEntityConfiguration.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\ContactTypeEntityConfigurations\\ContactTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\ContactTypeEntityConfigurations\\ContactTypeEntityConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:16:32.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GetAllContactQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQueryHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:19:43.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GetByIdContactQueryHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQueryHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQueryHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:25:30.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GetByIdContactQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetByIdContactQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:25:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GetAllContactQuery.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQuery.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQuery.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQuery.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Contact\\Get\\GetAllContactQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:18:31.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateContactCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBQwEsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:32:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreateContactCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:30:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CreateAuthTokenCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\User\\Login\\CreateAuthTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\User\\Login\\CreateAuthTokenCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\User\\Login\\CreateAuthTokenCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\User\\Login\\CreateAuthTokenCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:56:52.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CreateContactCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Contact\\Create\\CreateContactCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:35:18.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "LuxRide\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:03:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20241011184958_ContactAdded.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241011184958_ContactAdded.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241011184958_ContactAdded.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241011184958_ContactAdded.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241011184958_ContactAdded.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:49:58.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IContactRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IContactRepository.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:33:36.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UpdateTeamCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:15:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
               "Title": "UpdateTeamCommand.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommand.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommand.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommand.cs",
               "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T23:15:15.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GetByIdQuery.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAaAAAA",
+              "DocumentIndex": 89,
+              "Title": "UpdateTeamCommandValidator.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandValidator.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandValidator.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandValidator.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Update\\UpdateTeamCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:46:00.593Z"
+              "WhenOpened": "2024-10-11T17:16:05.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetAllQueryHandler.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQueryHandler.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwB4AAAAnAAAA",
+              "DocumentIndex": 90,
+              "Title": "DeleteTeamCommand.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:12:37.988Z"
+              "WhenOpened": "2024-10-10T21:49:45.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 91,
+              "Title": "DeleteTeamCommandHandler.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Delete\\DeleteTeamCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:49:51.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ExperienceDtoUpdate.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDtoUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:14:17.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IFormFileExtensions.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Infrastructure\\IFormFileExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:51:17.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ExperienceRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
+              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Repositories\\ExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:25:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IExperienceRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Interfaces\\IExperienceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:23:18.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ExperienceDto.cs",
+              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
+              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
+              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
+              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\DTOs\\ExperienceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:34:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
               "Title": "TeamDto.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\DTOs\\TeamDto.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\DTOs\\TeamDto.cs",
@@ -411,19 +1690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetAllQuery.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Queries\\Team\\Get\\GetAllQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T22:12:30.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 99,
               "Title": "PaginatedResult.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Common\\Pagination\\PaginatedResult.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Common\\Pagination\\PaginatedResult.cs",
@@ -435,7 +1702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 105,
               "Title": "20241009195044_TeamAdded.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241009195044_TeamAdded.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241009195044_TeamAdded.cs",
@@ -447,19 +1714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateTeamCommandValidator.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
-              "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
-              "RelativeToolTip": "Core\\LuxRide.Application\\Features\\Commands\\Team\\Create\\CreateTeamCommandValidator.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwBUAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:30:11.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 100,
               "Title": "ExperienceTypeEntityConfiguration.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\ExperienceTypeEntityConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\ExperienceTypeEntityConfiguration.cs",
@@ -471,43 +1726,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TeamTypeEntityConfiguration.cs",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
-              "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\EntityConfigurations\\TeamTypeEntityCongigurations\\TeamTypeEntityConfiguration.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAswDIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:14:59.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 101,
               "Title": "20241009192500_test.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs",
               "ToolTip": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs",
               "RelativeToolTip": "Infrastructure\\LuxRide.Persistence\\Migrations\\20241009192500_test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T19:25:00.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Coding\\LuxRide\\LuxRide\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "LuxRide\\appsettings.Development.json",
-              "ToolTip": "D:\\Coding\\LuxRide\\LuxRide\\appsettings.Development.json",
-              "RelativeToolTip": "LuxRide\\appsettings.Development.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-09T17:42:27.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 102,
               "Title": "ExtensionException.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Exceptions\\ExtensionException.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Exceptions\\ExtensionException.cs",
@@ -519,7 +1749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 103,
               "Title": "TeamRepository.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Infrastructure\\LuxRide.Persistence\\Repositories\\TeamRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\LuxRide.Persistence\\Repositories\\TeamRepository.cs",
@@ -531,7 +1761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 104,
               "Title": "ITeamRepository.cs",
               "DocumentMoniker": "D:\\Coding\\LuxRide\\Core\\LuxRide.Application\\Interfaces\\ITeamRepository.cs",
               "RelativeDocumentMoniker": "Core\\LuxRide.Application\\Interfaces\\ITeamRepository.cs",

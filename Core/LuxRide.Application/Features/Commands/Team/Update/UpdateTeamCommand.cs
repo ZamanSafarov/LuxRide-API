@@ -17,6 +17,6 @@ namespace LuxRide.Application.Features.Commands.Team.Update
 		public string Email { get; set; }
 		public IFormFile? Photo { get; set; }
 		public List<ExperienceDto> Experiences { get; set; }
-		public List<int> DeletedExperiences { get; set; }
+		public List<int>? DeletedExperiences { get; set; }
 	}
 }
