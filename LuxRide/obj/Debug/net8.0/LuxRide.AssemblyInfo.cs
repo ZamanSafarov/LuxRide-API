@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuxRide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9d0efc0a7c969d71db088a4bf3c1cfa9500df7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e3aa746ac5a395cffaa6058d38594f4a931392")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuxRide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuxRide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

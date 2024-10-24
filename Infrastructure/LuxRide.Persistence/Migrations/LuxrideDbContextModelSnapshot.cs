@@ -137,6 +137,57 @@ namespace LuxRide.Persistence.Migrations
                     b.ToTable("partners", (string)null);
                 });
 
+            modelBuilder.Entity("LuxRide.Domain.Entities.Abouts.Review", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("content");
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("name");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("path");
+
+                    b.Property<string>("Position")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("position");
+
+                    b.Property<int>("Rate")
+                        .HasMaxLength(1)
+                        .HasColumnType("integer")
+                        .HasColumnName("rate");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("reviews", (string)null);
+                });
+
             modelBuilder.Entity("LuxRide.Domain.Entities.Contacts.Contact", b =>
                 {
                     b.Property<int>("Id")
@@ -182,6 +233,263 @@ namespace LuxRide.Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("contacts", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Brand", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("name");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("brand", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Class", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("name");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("class", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Fleet", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<decimal>("AirportTransferRate")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("airporttransferrate");
+
+                    b.Property<int>("BrandId")
+                        .HasColumnType("integer")
+                        .HasColumnName("brandid");
+
+                    b.Property<int>("ClassId")
+                        .HasColumnType("integer")
+                        .HasColumnName("classid");
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<decimal>("DailyRate")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("dailyrate");
+
+                    b.Property<decimal>("HourlyRate")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("hourlyrate");
+
+                    b.Property<bool>("IsAvailable")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("boolean")
+                        .HasDefaultValue(false)
+                        .HasColumnName("isavailable");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("name");
+
+                    b.Property<int>("PassangerCapacity")
+                        .HasColumnType("integer")
+                        .HasColumnName("passangercapacity");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BrandId");
+
+                    b.HasIndex("ClassId");
+
+                    b.ToTable("fleet", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.FleetAvailability", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("date")
+                        .HasColumnName("date");
+
+                    b.Property<int>("FleetId")
+                        .HasColumnType("integer");
+
+                    b.Property<bool>("IsAvailable")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("boolean")
+                        .HasDefaultValue(true)
+                        .HasColumnName("isavailable");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("FleetId");
+
+                    b.ToTable("fleetavailability", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.FleetImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("FleetId")
+                        .HasColumnType("integer");
+
+                    b.Property<bool>("IsMain")
+                        .HasColumnType("boolean")
+                        .HasColumnName("ismain");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Path")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("character varying(500)")
+                        .HasColumnName("path");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("FleetId");
+
+                    b.ToTable("fleetimage", (string)null);
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.TimeSlot", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasColumnName("id");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CreatedById")
+                        .HasColumnType("integer");
+
+                    b.Property<TimeSpan>("EndTime")
+                        .HasColumnType("interval")
+                        .HasColumnName("endtime");
+
+                    b.Property<bool>("IsAvailable")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("boolean")
+                        .HasDefaultValue(true)
+                        .HasColumnName("isavailable");
+
+                    b.Property<DateTime?>("LastUpdateDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<DateTime>("RecordDateTime")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<TimeSpan>("StartTime")
+                        .HasColumnType("interval")
+                        .HasColumnName("starttime");
+
+                    b.Property<int?>("UpdateById")
+                        .HasColumnType("integer");
+
+                    b.Property<int?>("fleetavailabilityid")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("fleetavailabilityid");
+
+                    b.ToTable("timeslot", (string)null);
                 });
 
             modelBuilder.Entity("LuxRide.Domain.Entities.Teams.Experience", b =>
@@ -361,6 +669,55 @@ namespace LuxRide.Persistence.Migrations
                     b.ToTable("users", (string)null);
                 });
 
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Fleet", b =>
+                {
+                    b.HasOne("LuxRide.Domain.Entities.Fleets.Brand", "Brand")
+                        .WithMany("Fleets")
+                        .HasForeignKey("BrandId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("LuxRide.Domain.Entities.Fleets.Class", "Class")
+                        .WithMany("Fleets")
+                        .HasForeignKey("ClassId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Brand");
+
+                    b.Navigation("Class");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.FleetAvailability", b =>
+                {
+                    b.HasOne("LuxRide.Domain.Entities.Fleets.Fleet", "Fleet")
+                        .WithMany("FleetAvailabilities")
+                        .HasForeignKey("FleetId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Fleet");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.FleetImage", b =>
+                {
+                    b.HasOne("LuxRide.Domain.Entities.Fleets.Fleet", "Fleet")
+                        .WithMany("FleetImages")
+                        .HasForeignKey("FleetId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Fleet");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.TimeSlot", b =>
+                {
+                    b.HasOne("LuxRide.Domain.Entities.Fleets.FleetAvailability", null)
+                        .WithMany("AvailableTimeSlots")
+                        .HasForeignKey("fleetavailabilityid")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
             modelBuilder.Entity("LuxRide.Domain.Entities.Teams.Experience", b =>
                 {
                     b.HasOne("LuxRide.Domain.Entities.Teams.Team", null)
@@ -368,6 +725,28 @@ namespace LuxRide.Persistence.Migrations
                         .HasForeignKey("TeamId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Brand", b =>
+                {
+                    b.Navigation("Fleets");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Class", b =>
+                {
+                    b.Navigation("Fleets");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.Fleet", b =>
+                {
+                    b.Navigation("FleetAvailabilities");
+
+                    b.Navigation("FleetImages");
+                });
+
+            modelBuilder.Entity("LuxRide.Domain.Entities.Fleets.FleetAvailability", b =>
+                {
+                    b.Navigation("AvailableTimeSlots");
                 });
 
             modelBuilder.Entity("LuxRide.Domain.Entities.Teams.Team", b =>

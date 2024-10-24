@@ -1,6 +1,7 @@
 ﻿using LuxRide.Domain.Entities;
 using LuxRide.Domain.Entities.Abouts;
 using LuxRide.Domain.Entities.Contacts;
+using LuxRide.Domain.Entities.Fleets;
 using LuxRide.Domain.Entities.Teams;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -22,6 +23,13 @@ namespace LuxRide.Persistence.Context
 		public DbSet<Faq> FAQs{ get; set; }
 		public DbSet<About> Abouts{ get; set; }
 		public DbSet<Partner> Partners{ get; set; }
+		public DbSet<Review> Reviews { get; set; }
+		public DbSet<Fleet> Fleets { get; set; }
+		public DbSet<FleetImage> FleetImages { get; set; }
+		public DbSet<FleetAvailability> FleetAvailabilities { get; set; }
+		public DbSet<TimeSlot> TimeSlots { get; set; }
+		public DbSet<Class> Classes { get; set; }
+		public DbSet<Brand> Brands { get; set; }
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			modelBuilder.ApplyConfigurationsFromAssembly(typeof(LuxrideDbContext).Assembly);

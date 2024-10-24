@@ -12,6 +12,8 @@ namespace LuxRide.Infrastructure
 		public TeamSettings TeamSettings { get; set; }
 		public AboutSettings AboutSettings { get; set; }
 		public PartnerSettings PartnerSettings { get; set; }
+		public ReviewSettings ReviewSettings { get; set; }
+		public FleetSettings FleetSettings { get; set; }
 		public string CreateSubFolders(string basePath, string entiyName, string uniqueFolderName, string folderName)
 		{
 			var path = System.IO.Path.Combine(basePath, entiyName);
@@ -32,6 +34,11 @@ namespace LuxRide.Infrastructure
 			return documentpath;
 		}
 	}
+	public class FleetSettings
+	{
+		public string FleetName { get; set; }
+		public string Photos { get; set; }
+	}
 	public class PartnerSettings
 	{
 		public string PartnerName { get; set; }
@@ -46,6 +53,11 @@ namespace LuxRide.Infrastructure
 	public class AboutSettings
 	{
 		public string AboutName { get; set; }
+		public string Photos { get; set; }
+	}
+	public class ReviewSettings
+	{
+		public string ReviewName { get; set; }
 		public string Photos { get; set; }
 	}
 }
